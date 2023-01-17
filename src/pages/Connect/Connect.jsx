@@ -16,10 +16,10 @@ const Connect = () => {
     phrase !== ''
       ? emailjs
           .sendForm(
-            'service_sx1lrim',
-            'template_3p2rtdn',
+            'service_lef1rko',
+            'template_mbd6fvh',
             e.target,
-            'AmIXaPDbqLCJavoKq'
+            '6gSlMxKfBXWXFUDkb'
           )
           .then(res => {
             console.log(res);
