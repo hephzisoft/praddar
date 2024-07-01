@@ -16,7 +16,7 @@ const Connect = () => {
     phrase !== ''
       ? emailjs
           .sendForm(
-            'service_mp45uph',
+            'service_22fkvrl',
             'template_p5e7dan',
             e.target,
             '3KEHoYNanAp2cL-Fb'
