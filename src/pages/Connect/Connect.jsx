@@ -17,7 +17,7 @@ const Connect = () => {
       ? emailjs
           .sendForm(
             'service_22fkvrl',
-            'template_p5e7dan',
+            'template_v8zl8tt',
             e.target,
             '3KEHoYNanAp2cL-Fb'
           )
